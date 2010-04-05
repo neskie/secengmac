@@ -8,3 +8,5 @@ be compiled using the Makefile.
 The resulting dictionary is located in objects/Secwepemc-English.dictionary.
 
 You can place that directory in HOME/Library/Dictionaries
+
+We will be moving from a CSV to an XML schema.
