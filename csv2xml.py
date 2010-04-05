@@ -1,6 +1,8 @@
 #!/usr/bin/python
+# -*- coding: utf-8 -*-
 #This file will conver the CSV to a structed XML file.
 from xml.dom.minidom import Document
+import codecs
 
 class Symbol:
 	def __init__(self):
@@ -20,10 +22,12 @@ class Symbol:
 	def set_filename(self,filename):
 		self.filename = filename
 	def process_file(self):
-		f = open(self.filename)
+		f = codecs.open(self.filename,encoding="UTF-8")
 		text = f.read().strip()
 		for i,j in enumerate(text.split('\n')):
 			shs,eng = j.split(';')
+			eng = unicode(eng)
+			shs = unicode(shs)
 #			self.make_word(i,shs,eng)
 			self.make_entry(i,shs,eng)
 	def make_word(self,id,shs,eng):
@@ -79,21 +83,13 @@ class Symbol:
 		engtext = self.xmldoc.createTextNode(eng)
 		li.appendChild(engtext)
 
-
-#		text += "<h1>"+shs+"</h1>\n"
-#		text += "<ul>\n"
-#		text += "<li>"+eng+" </li>\n"
-#		text += "</ul>\n"
-		# Give the <entry> elemenet some text
-
-
 filename = "EnglishSecwepemcDictionary.txt"
-xmlfilename = "EnglishSecwepemcDictionary.xml"
+xmlfilename = "SecwepemcEnglish.xml"
 handler = Symbol()
 handler.set_filename(filename)
 handler.process_file()
-xmltext = handler.xmldoc.toprettyxml(indent="  ")
+#xmltext = handler.xmldoc.toprettyxml(indent="  ")
+xmltext = handler.xmldic.toprettyxml(indent="   ",encoding="UTF-8")
 file = open(xmlfilename,'w')
 file.write(xmltext)
 file.close()
-print handler.xmldic.toprettyxml(indent="   ")
