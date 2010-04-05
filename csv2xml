@@ -17,8 +17,6 @@ class Symbol:
 		f = open(self.filename)
 		text = f.read().strip()
 		for i,j in enumerate(text.split('\n')):
-			if len(j) > 2:
-				print i
 			shs,eng = j.split(';')
 			self.make_word(i,shs,eng)
 	def make_word(self,id,shs,eng):
