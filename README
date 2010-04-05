@@ -1,0 +1,10 @@
+This project is used to create a Mac OS X dictionary for use by
+Dictionary.app.  The wordlist used has been released under the LGPL by the
+Secwepemc Cultural Education Society.
+
+It consists of a python script to convert a CSV to an xml file, that can then
+be compiled using the Makefile.
+
+The resulting dictionary is located in objects/Secwepemc-English.dictionary.
+
+You can place that directory in HOME/Library/Dictionaries

@@ -1,0 +1,21 @@
+#!/usr/bin/python
+
+def print_entry(id,shs,eng):
+	print "<d:entry id=\""+str(id)+"\" d:title=\""+shs+"\" d:parental-control=\"1\">"
+	print "<d:index d:value=\""+shs+"\"/>"
+        print "<h1>"+shs+"</h1>"
+        print "<ul>"
+        print "<li>"+eng+" </li>"
+        print "</ul>"
+	print "</d:entry>"
+
+
+filename = "EnglishSecwepemcDictionary.txt"
+
+f = open(filename)
+text = f.read().strip()
+
+for i,j in enumerate(text.split('\n')):
+	shs,eng = j.split(';')
+	print_entry(i,shs,eng)
+	
