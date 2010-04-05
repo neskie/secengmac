@@ -1,8 +1,16 @@
 #!/usr/bin/python
+#This file will conver the CSV to a structed XML file.
+from xml.dom.minidom import Document
 
 class Symbol:
 	def __init__(self):
 		self.filename = ""
+		self.text = ""
+		self.xmldoc = Document()
+		# Create the <wml> base element
+		self.wordlist = self.xmldoc.createElement("wordlist")
+		self.xmldoc.appendChild(self.wordlist)
+
 	def set_filename(self,filename):
 		self.filename = filename
 	def process_file(self):
@@ -10,24 +18,39 @@ class Symbol:
 		text = f.read().strip()
 		for i,j in enumerate(text.split('\n')):
 			shs,eng = j.split(';')
-			print shs,eng
-#			print_entry(i,shs,eng)
+			self.make_word(i,shs,eng)
+	def make_word(self,id,shs,eng):
+		# Create the word <word> element
+		word = self.xmldoc.createElement("word")
+		word.setAttribute("id", str(id))
+		self.wordlist.appendChild(word)
+		# Create a <secwepemc> element
+		secwepemc = self.xmldoc.createElement("secwepemc")
+		word.appendChild(secwepemc)
+		# Create a <english> element
+		english = self.xmldoc.createElement("english")
+		word.appendChild(english)
 
+		# Give the <secwepemc> elemenet some text
+		sectext = self.xmldoc.createTextNode(shs)
+		secwepemc.appendChild(sectext)
+		# Give the <english> elemenet some text
+		engtext = self.xmldoc.createTextNode(eng)
+		english.appendChild(engtext)
 
-#def print_entry(id,shs,eng):
-#	print "<d:entry id=\""+str(id)+"\" d:title=\""+shs+"\" d:parental-control=\"1\">"
-#	print "<d:index d:value=\""+shs+"\"/>"
-#        print "<h1>"+shs+"</h1>"
-#        print "<ul>"
-#        print "<li>"+eng+" </li>"
-#        print "</ul>"
-#	print "</d:entry>"
-#
+	def make_entry(self,id,shs,eng):
+		self.text = ""
+		self.text += "<d:entry id=\""+str(id)+"\" d:title=\""+shs+"\" d:parental-control=\"1\">\n"
+		self.text += "<d:index d:value=\""+shs+"\"/>\n"
+		self.text += "<h1>"+shs+"</h1>\n"
+		self.text += "<ul>\n"
+		self.text += "<li>"+eng+" </li>\n"
+		self.text += "</ul>\n"
+		self.text += "</d:entry>\n"
+
 
 filename = "EnglishSecwepemcDictionary.txt"
-#
-#
 handler = Symbol()
 handler.set_filename(filename)
-print handler.filename
 handler.process_file()
+print handler.xmldoc.toprettyxml(indent="  ")
