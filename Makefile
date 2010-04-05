@@ -50,6 +50,3 @@ install:
 
 clean:
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
-update: all
-	rsync -avz /Users/manny/SecwepemcEnglish/objects/Secwepemc-English.dictionary /Users/manny/Library/Dictionaries/
-
