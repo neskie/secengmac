@@ -123,9 +123,9 @@ cítsens;cutting hay, mowing a lawn
 cítske7;mower, scythe, lawnmower
 ciwt;frayed
 ciwt, xiwt;frayed  ???
-cíyem;stir,  rummage around (for stg.)
-cíyens;stir,  rummage around (for stg.)
-cíyens,  necíy̓ens;rummage for stg. inside stg.
+cíyem;stir,rummage around (for stg.)
+cíyens;stir,rummage around (for stg.)
+cíyens,necíy̓ens;rummage for stg. inside stg.
 ciyentsút;searching oneself all over.
 ciyentsút;searching through one's house or pockets.
 ciyúcwt;fall off of
@@ -606,7 +606,8 @@ ctellt̓éllsens;s/he it glued h/her eyes shut
 ct̓él̓sten;partition,  E  fence.
 ctelt̓létkwe;calm water
 ctemám̓llts'e,  cte7mám̓llts'e;easily hurt, easily moved to tears.
-ct̓em,-entés;searched
+ct̓em;searched
+ct̓entés;he searched
 ctemín̓;stone hammer for softening meat
 ctemtél̓sten,  ct7emtél̓sten;horse for riding,  mount.
 ctemtétem̓;arrow with disconnecting head (t̓uqw).
@@ -741,12 +742,13 @@ ctskwén̓sens;pulling out  teeth
 ctskwílten;ammo pouch, quiver, arrow container.
 ctskwílten  W,  cláy̓peten  N;casing of bullet
 cts'lemcétkwe;snag in the water
-cts'lem,-entés;placing (fishtrap) in the water
+cts'lem;placing (fishtrap) in the water
+cts'lentés;he placing (fishtrap) in the water
 cts'lén̓kcen, tsects'lénkcen;cork boots (with spikes)
 cts'líken;fish trap
 cts'lúsem̓,-en̓s;putting stg. on window/fire
 ctsmep;sick to the stomache from eating rich food
-ctsmin̓, csetsmín̓;coffin
+ctsmin̓,csetsmín̓;coffin
 cts'nósem,-cts;aiming with one eye shut
 cts'nósem;shutting an eye when taking aim
 cts'o7t;leak in the roof,E  soaked through
@@ -757,13 +759,13 @@ ctsqél̓sem;setting fish weirs in the water
 ctsqél̓sens;setting fish weirs in the water
 ctsq̓emnétkwem;throwing stg. into water
 ctsqen̓tét.s;roasting stg. in the oven
-ctsqéqem̓, ctsqentét.s;put stg. in the oven
+ctsqéqem̓,ctsqentét.s;put stg. in the oven
 ctsqéq̓llts'em̓,-en̓s;hitting an object from the inside
 ctsqéqpten;saucer
 ctsqétkwem;placing stg. in the water,  launching a canoe etc.
 ctsqétkwens;placing stg. in the water,  launching a canoe etc.
-cts'qú7eten, ts'qú7eten;pipe for smoking
-cts'qú7etn, cts'qú7ten;pipe for smoking
+cts'qú7eten,ts'qú7eten;pipe for smoking
+cts'qú7etn,cts'qú7ten;pipe for smoking
 ctsqweqwyetém̓;rust on inside of stg.
 ctsqwétkwe;gold nuggets/dust in creek
 ctsrem̓,-en̓tés;getting the sweatlodge ready for  a sweat
@@ -1305,7 +1307,8 @@ gwéts'ens;oiled stg.,   smeared on
 gwéts'sem;putting cream on  one's face
 gwitsenméy̓e;teasing
 gwitsínem,-mens;teased
-gwyem,-entés;doing a quick job on stg. 1,   play a trick on  11
+gwyem;doing a quick job on stg. 1,   play a trick on  11
+gwyentés;he doing a quick job on stg. 1,   play a trick on  11
 gyep;angry
 gyeqín̓;head of the choclate lily
 he7éy;quieted down, subside,
@@ -1639,7 +1642,8 @@ kuwépem;sliding on one's rear
 kuwílc;slide down (of person).
 kuwílep;sleigh riding
 ku...;(with short u)
-kuwúm,-entés;slid stg. over
+kuwúm;slid stg. over
+kuwentés;he slid stg. over
 k̓úy̓e;a male's  mother's sister
 k̓úy̓e;aunt (parent's brother's wife).
 kw7al;spoiled (of food)  1,  taking on a yellow tinge  11.
@@ -1828,7 +1832,8 @@ kwlaltcw;yellow in colour
 kwláscen̓;gold nuggets
 kwle7éllp,  - á;alder  Alnus incana
 kwlékwle;green grass
-kwlem,-entés;bake bread on an open fire***
+kwlem;bake bread on an open fire***
+kwlentés;he bake bread on an open fire***
 kwlemt;pimple, infected
 kwléwsem;lay down with your back to a heater/fire
 kwléwsem;lyeing by a fire or stove
@@ -1844,12 +1849,14 @@ k̓wsecwést̓ye;goose grass
 k̓wséltkten;relatives, friends, same tribal members
 k̓wseltktnéws;friends
 k̓wsicw;goose
-kwt̓em,-entés;dig root foods
+kwt̓em;dig root foods
+kwt̓entés;he dig root foods
 kwt̓ep;ran away from
 kwtetúten̓t;a fair amount
 kwtunt;plentiful, enough
 k̓wyékstmens;tortured, teased
-kwyem,-entés;smoothed out
+kwyem;smoothed out
+kwyentés;he smoothed out
 k̓wyemtsetsítsen̓;narrow-necked, opening
 kwyem;visiting a community to compete,    D  invasion
 kwyépem̓,  cwecwekwyépem;sliding along on floor/ground in sitting position,  a walking wiggle
@@ -2162,7 +2169,8 @@ llp̓él̓sem,  tllp̓él̓sens;hang ing clothes on a clothes-line, or over a br
 llp̓énkten;ribbon
 llp̓én̓kten;ribbon
 llq̓elqw;wide plank
-llqem,-entés;paste or tack on
+llqem;paste or tack on
+llqentés;he paste or tack on
 llqent;snow falling in large flakes
 llqéq̓ne7k;fish (unid., possibly bass or perch)***
 llqum;See k̓qq̓entés. ***
@@ -2174,7 +2182,8 @@ llq̓wtílep;lie on one's stomach
 llq̓wtus;ice fishing
 llts'élepem;fir boughs/leaves down as a mat to sit on
 llts'élep;hay/branches as a temporary floor mat
-llts'em,-entés;pile/ spread hay/branches
+llts'em;pile/ spread hay/branches
+llts'entés;he pile/ spread hay/branches
 llts'épem, tellts'ép-em;piling branches (berries) in front of one /sb.
 llts'épem, tellts'ép-ens;piling branches (berries) in front of one /sb.
 lltsetsék;mother-in-law
@@ -2846,7 +2855,8 @@ pexyéwt;tomorrow
 pexyéwt;tomorrow
 péy̓pit;infuriating
 pgeg;fading, faded
-p̓gem,-entés;sting, burn (of insects, caterpillars)
+p̓gem;sting, burn (of insects, caterpillars)
+p̓gentés;he sting, burn (of insects, caterpillars)
 p̓gep;burnt-over terrain
 pícem;unraveling
 pícens;unraveling
@@ -2919,7 +2929,8 @@ psígwem;cheep (of small birds)
 psigw;whine (of children)
 ptek;passed by
 pteksem,-ens/ptekúsens;pass by someone,  overtake
-ptem,-entés;s/he spread out stg.
+ptem;s/he spread out stg.
+ptentés;he s/he spread out stg.
 ptensménst,-mens;worry whether one/sb. will make it, will achieve what he set out to do.
 pt̓ic;run yapping on a trail (as dog, coyote)
 ptínesem, -mens ,   ptíns-);thought, thought about
@@ -3193,13 +3204,15 @@ qné7e;great-grandmother
 qnim;hear of  or receive news, gossip and information
 qnu7;uvula of a fish
 qpekst;pot-holder/oven-mitts
-qpem,-entés;bandaged
+qpem;bandaged
+qpentés;he bandaged
 q̓senwéllen,  q̓esenwéllen;impatient, tired of waiting
 qsep;itching
 qsepmíns;tickled by stg.  found amusing (negative form)
 q̓síle;eastern kingbird
 qtse7;overloaded, packed too heavy (of persons)
-qts'em,-entés;weave, knit
+qts'em;weave, knit
+qts'entés;he weave, knit
 qtsemíns;s/he found a load/pack too heavy
 qts'em;weave
 qu7íle,  qwe7íle;umbilical cord
@@ -3412,7 +3425,8 @@ q̓wléknem;roast stg. whole
 q̓wléknens;roast stg. whole
 qwleltkwllp;sandfly
 qwléltkwllp;small black flys
-q̓wlem,-entés;s/he has roasted stg.
+q̓wlem;s/he has roasted stg.
+q̓wlentés;he s/he has roasted stg.
 qwlem;powder snow  1,not quite ripe.  2.
 qwlenstcwéy̓e,  qwlentecwéy̓e;argue
 qwlentés;spoke to someone
@@ -3423,7 +3437,8 @@ q̓wléwens;pick berries
 qwléwe;wild onion Allium cernuum
 qwlilc;taking a dust bath
 qwlilc;when a grizzly comes close  ??
-q̓wllem,-entés;s/he has burned someone
+q̓wllem;s/he has burned someone
+q̓wllentés;he s/he has burned someone
 qwllenél̓ll;birchbark canoe
 q̓wllep;someone has gotten burnt
 qwllin;birchbark  Betula papyrifera
@@ -3444,12 +3459,14 @@ qwnuxw;is becoming sickly,is lame
 qwse7;nephew, niece (husband's brother's child)
 qwsey;moss (fibrous, grows in clumps), Palmer Lobaria pulmonaria, Parmelia sp., Cladonia sp.
 qwtell;grease
-qwtem,-entés;softening
+qwtem;softening
+qwtentés;he softening
 qwtíxe;lice
 qwtíxem;lousy
 qwtseq;died
 qwtsilc;slight movement of the body
-q̓wyem,-entés;shake, rock,ring (bell)
+q̓wyem;shake, rock,ring (bell)
+q̓wyentés;he shake, rock,ring (bell)
 q̓wyes;negro
 q̓wyey;a swing swings, a house rocks back and forth etc.
 qwyíkne (E  qwyíqene);bluebird
@@ -4059,8 +4076,10 @@ spelq;penis
 spelqwéqs;baldheaded eagle, E  golden eagle
 spelq̓wéqs;turtle
 sp̓élqwtn;stick game sticks
-sp̓em,-entés;hitting someone/stg. with a stick
-spem,-entés;picking soap-berries
+sp̓em;hitting someone/stg. with a stick
+sp̓entés;he hitting someone/stg. with a stick
+spem;picking soap-berries
+spentés;he picking soap-berries
 spencén;brandnew moccasins
 sp̓entsúten;branch used to whip oneself in sweathouse
 spép̓qe7tn;threshing machine
@@ -5625,8 +5644,10 @@ tqeltqín;reached the top of a mountain
 tqeltús;reached the top
 tqelxíts'e7tn, teqelxíts'e7ten;fence
 tqém̓elqw;arrow/bullet has hit a tree
-t̓qem,-entés;digging up of root vegetables with a digging instrument
-tqem,-entés;making the sign of the cross,momentary tounching of
+t̓qem;digging up of root vegetables with a digging instrument
+t̓qentés;he digging up of root vegetables with a digging instrument
+tqem;making the sign of the cross,momentary tounching of
+tqentés;he making the sign of the cross,momentary tounching of
 tqemqmésq̓t;a peaceful day
 tqeptsnúcw;survived to see spring
 tqeqelltén;entertainer
@@ -6259,7 +6280,8 @@ tskéllts'ens, ctskélckens;he hollowed it out
 tsk̓elmínst.s, tsek̓elmínsts;waited  for
 tsk̓élnem;listened, eaves dropped
 tsk̓el̓s;lying in the middle of a road of heavy object
-tskem,-entés;carve, whittle,to strike with hoof
+tskem;carve, whittle,to strike with hoof
+tskentés;he carve, whittle,to strike with hoof
 tsk̓empéllcw,  sk̓empéllcw;the outside,outdoors
 tsken;blood-relation,close up against stg.
 ts'kénem;what is it like?,how is it made?,would you
@@ -6361,7 +6383,8 @@ tslek̓;string wound around stg.
 tslék̓,  stslék̓;worn out
 tslek̓,  tselék;disappeared
 tslek̓;worn out
-ts'lem,-entés;transplanting,setting up a weir,E  to trap fish
+ts'lem;transplanting,setting up a weir,E  to trap fish
+ts'lentés;he transplanting,setting up a weir,E  to trap fish
 ts'lemtsín,  cts'elemtsín;similar voice, similar sounding language
 ts'léple7cen;spurs
 tslew;caught on a trap
@@ -6464,7 +6487,8 @@ tsq̓élnem;she shot her rifle/gun
 tsq̓élnens;she shot her rifle/gun
 tsqelq̓léx;wild grass which grow in clumps  ???
 tsq̓elxíken, tsexq̓elxíken;wolverine
-tsq̓em,-entés;throwing stg. at another person/thing
+tsq̓em;throwing stg. at another person/thing
+tsq̓entés;he throwing stg. at another person/thing
 tsqem   I.,-entés;put, place, (esp. a container or vehicle).
 tsqem   II.;is hit, wounded
 tsq̓emnúse7ten;lasso rope
@@ -6549,7 +6573,8 @@ tsqwyaltcw;grey (horse)
 tsq̓wyemstés, tsq̓oyemstés;consider someone unsuitable for a position/job,E  to underestimate.
 tsrap   I.;is burning
 tsrap   II.;tree,is standing upright
-tsrem,-entés;burning something
+tsrem;burning something
+tsrentés;he burning something
 tsrénkem,-ens/tsígenkens;gutting fish/animal
 tsrgetsenwécw  (sp);tied together
 tssusú7;soaked
@@ -6634,7 +6659,8 @@ tsxaq;stuck in between
 tsxel;fenced in area
 tsxel, tsxal;log structure
 tsxelxél;stacked to the rafters  ???
-ts'xem,-entés;he went to look at stg.
+ts'xem;he went to look at stg.
+ts'xentés;he he went to look at stg.
 tsxéqen, tshéqen;maybe
 tsxeqtsín̓;careless about what one says
 tsxeteqsentwécw;taking turns walking in front
@@ -6736,7 +6762,8 @@ t̓wéwyeqs;yearling caribou
 twexém;stripping naked
 twéxens;to interfere with sb.
 twéxmens;stepped over a person (ritually)
-twíkem̓,-ts;seeing  berries on bushes
+twíkem̓;seeing  berries on bushes
+twíkts;seeing  berries on bushes
 twílke;fringe
 twinélesem, -mens;dependent upon someone., expect sb. to do things for one.
 twítem;raising a child
@@ -6945,7 +6972,8 @@ weyt-kp;hello (plural)
 weyt-kp, xweytkp;hello  to several
 wi7;finished
 wi7st.s;she finished with it
-wíkem,-ts;saw,able to see
+wíkem;saw,able to see
+wíkts;saw,able to see
 wikt.s;she saw it
 wíle;lichen Alectoria Jubata
 wíq̓em;wrecking
@@ -7089,7 +7117,8 @@ xixyép;they are hot
 xixyéy̓p;eager,in the mood,in a frenzy
 xiyúy̓em;a little bit bigger
 xlecw;tooth
-xlem,-entés;built a loghouse
+xlem;built a loghouse
+xlentés;he built a loghouse
 xleq̓élps;bandana
 xleq̓;rolled away
 xleq;stuck between stg.
@@ -7110,8 +7139,10 @@ xnucw;men's ladder in the winter home
 xpé7e;grandfather
 xpellcw;shingles
 xpéllcwten;side boards of house
-xpem,-entés;pile up (flat things, e.g. blankets or lumber)
-xp̓em,-entés;stitching material
+xpem;pile up (flat things, e.g. blankets or lumber)
+xpentés;he pile up (flat things, e.g. blankets or lumber)
+xp̓em;stitching material
+xp̓entés;he stitching material
 xpentés;she/he  piled stg.
 xp̓enwéwcwst.s;she sewed it
 xp̓épqenten;hair clip
@@ -7131,7 +7162,8 @@ xqeltem̓césell;spring salmon
 xqeltkékst;north wind
 xqeltkép;falcon
 xqeltk;upstream area, district
-xqem,-entés;learn, predict, guess
+xqem;learn, predict, guess
+xqentés;he learn, predict, guess
 xqemqmétkwe;lukewarm liquid
 xq̓emxwpétkwe;lumps form in liquid
 xq̓emxwqín̓kst;elbows
@@ -7216,7 +7248,8 @@ x-;See c-.
 xtetq̓;small knife
 xts'7uy;late at night
 xtsekst;approach game against the wind
-xtsem,-entés;placing a bet
+xtsem;placing a bet
+xtsentés;he placing a bet
 xtsep;all kinds
 xts'éy̓men;liver
 xts'inúcw;late at night, sometime before midnight
@@ -7226,7 +7259,8 @@ xt̓úsem;eating  the deerhead
 xu7t̓;sturgeon
 xúp̓emt;humped up
 xúq̓wleqs;snore
-xuwúm,-entés;drying
+xuwúm;drying
+xuwentés;he drying
 xúxwlentsút, xwelxwelentsút;to make a fool of oneself
 xuxwléqe;bird
 xw7us;foamed
@@ -7299,7 +7333,8 @@ xwyúsem̓,  kwyúsem̓;sharpen
 xwyúsem̓;sharpening a blade
 xwyústen̓;file, E  also horsetail, scouring rush.
 xyem7úl̓i,  t̓ekwem7úl̓i;very big
-xyem,-entés;heating stg.
+xyem;heating stg.
+xyentés;he heating stg.
 xyemstés;honour,respect someone
 xyemstsút;think too highly of oneself
 xyemstwécw;respect one another
