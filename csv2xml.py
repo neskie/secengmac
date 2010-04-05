@@ -10,10 +10,12 @@ class Symbol:
 		self.text = ""
 		self.xmldoc = Document()
 		self.xmldic = Document()
+
 		# Create the <wordlist> base element
 		self.wordlist = self.xmldoc.createElement("wordlist")
 		self.xmldoc.appendChild(self.wordlist)
 
+		# Create the <dictionary> base element
 		self.dictionary = self.xmldoc.createElement("d:dictionary")
 		self.xmldic.appendChild(self.dictionary)
 		self.dictionary.setAttribute("xmlns", "http://www.w3.org/1999/xhtml")
