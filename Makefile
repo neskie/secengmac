@@ -35,11 +35,12 @@ RM			=	/bin/rm
 
 ###########################
 
-all:
-	python csv2xml.py
+all: SecwepemcEnglish.xml
 	"$(DICT_BUILD_TOOL_BIN)/build_dict.sh" $(DICT_BUILD_OPTS) $(DICT_NAME) $(DICT_SRC_PATH) $(CSS_PATH) $(PLIST_PATH)
 	echo "Done."
 
+SecwepemcEnglish.xml: EnglishSecwepemcDictionary.txt
+	python csv2xml.py
 
 install:
 	echo "Installing into $(DESTINATION_FOLDER)".
@@ -52,4 +53,4 @@ dist:
 	tar -C objects -c $(DICT_NAME).dictionary | bzip2 > $(DICT_NAME)-latest.tar.bz2
 
 clean:
-	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
+	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR) SecwepemcEnglish.xml

@@ -361,7 +361,8 @@ cmekwtsín̓s;pulling a flap down at a door opening
 cmekwtsín̓ten;skin/cloth  door-covering
 cmelcéne;looking back over the shoulder
 cmelcenentsút;erase one's tracks (with the feet).
-cmelctsín̓em,-s;kicking a door open/shut
+cmelctsín̓em;kicking a door open/shut
+cmelctsín̓ems;kicking a door open/shut
 cmelcúpsem;kicking someone  in the buttocks
 cmelcúpsens;kicking someone  in the buttocks
 cmelmálsten;boiled brains of large game to add oil to the hide tanning fluid.
@@ -394,7 +395,8 @@ cnek̓w7ú7s;single layer of clothing.
 cnekwnek̓wú7sem;stepping in tracks already made
 cnélep;blanket/sheet put on a mattresslfloor/ground.
 cnélesens,  necnélesens;s/he spread stg. out on the floor
-cnemém̓llts̓e,-mens;suspecting one's spouse of infidelity.
+cnemém̓llts̓e;suspecting one's spouse of infidelity.
+cnemém̓llts̓mens;suspecting one's spouse of infidelity.
 cnem;spreading a sheet/blanket/table cloth
 cneqneq̓ílcten;neck vertebrae.
 cnesép;begin, start.
@@ -438,7 +440,8 @@ cpep̓7ém̓cwem;milking (plur.).
 cpep̓7ém̓cwens;milking (plur.).
 cpep̓é7us;motorcycle
 cpepetk̓úsens;pecked/poked out the  eyes.
-cpep̓úm,-ens;smoking out a room, also skunk spray
+cpep̓úm;smoking out a room, also skunk spray
+cpep̓úmens;smoking out a room, also skunk spray
 cpeqpéqen̓kcen;berries of the red willow (red osier dogwood).
 cpeqtsín;dawn
 cpeqtsín,  secpeqtsín;dawn
@@ -493,14 +496,17 @@ cptín̓esten;thoughts, opinions,  on any subject
 cptíxwme7;spitoon
 cptíxwmen̓;spittoon
 cptsekllénk;tree-covered hillside  (poplars,  cottonwood,  birch etc.)
-cptúsem̓,- en̓s;drawing a curtain
+cptúsem̓;drawing a curtain
+cptúsem̓en̓s;drawing a curtain
 cptústen;curtains, blinds, window covering
 cpúcwllts̓em;blow/whistle on one's cupped palms.
 cpúcwllts̓eten;flute, whistle, also a horn used to attract game
 cpúkwmen̓;birds food grinder pouch  ???
 cpúlkwe;capsize or tip over of boats or vehickles
 cp̓úmen;smoking out a den
-cp̓úm̓t,-em, -mens;smoked out  (as bear from den).
+cp̓úm̓t;smoked out  (as bear from den).
+cp̓úm̓tem;smoked out  (as bear from den).
+cp̓úm̓tmens;smoked out  (as bear from den).
 cp̓unél̓esqen;toque ***
 cp̓unélps;turtleneck sweater
 cpupég̓wtsnem, pegwpégwtsnem;knock  on the door
@@ -725,7 +731,8 @@ cts̓éwem;washing dishes
 ctsík̓wsem;peeping through a keyhole, crack
 ctsíle;putting a child in a cradle
 ctsíllen̓ten;larder (food storage) E refrigerator.
-ctsíp'sem,-mens;wink
+ctsíp'sem;wink
+ctsíp'semens;wink
 ctsípwen;root cellar
 ctsípwenten;root cellar
 ctsíqem;digging a pit
