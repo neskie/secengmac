@@ -27,7 +27,10 @@ class Symbol:
 		f = codecs.open(self.filename,encoding="UTF-8")
 		text = f.read().strip()
 		for i,j in enumerate(text.split('\n')):
-			shs,eng = j.split(';')
+			try:
+				shs,eng = j.split(';')
+			except ValueError:
+				print i;
 			eng = unicode(eng)
 			shs = unicode(shs)
 #			self.make_word(i,shs,eng)

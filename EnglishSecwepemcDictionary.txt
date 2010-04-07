@@ -57,7 +57,8 @@ c7ú7seten;nest
 c7ú7tsen;replied, gave an answer
 c7ú7tsqe;exit
 c7ullcw;enter into or burrow into a home
-cálem,-ens   II.;scraping a frozen hide before tanning .
+cálem;scraping a frozen hide before tanning
+cálens;scraping a frozen hide before tanning
 cecále,  celcált;steep  embankment
 cecále;steep place
 cecécu7tem;young girl of puberty age
@@ -5344,7 +5345,7 @@ t̓henúlecw;far out into the wilderness
 t̓i7cwécwtkwllp;waxberry bush Symphoricarpos  mollis
 tícwe7tsk;tongue
 t̓ícwell;different, unusual, foreign
-tícwtts̓game killed
+tícwtts̓;game killed
 tígwens;rang a bell,horses were turned loose
 tíg̓wke;bell tongue or rattle
 tíg̓wke,  ctsqéq̓llts̓e7ten;tongue of bell

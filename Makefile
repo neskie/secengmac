@@ -47,6 +47,8 @@ install:
 	touch $(DESTINATION_FOLDER)
 	echo "Done."
 	echo "To test the new dictionary, try Dictionary.app."
+dist:
+	tar -C objects -c $(DICT_NAME).dictionary | bzip2 > $(DICT_NAME)-latest.tar.bz2
 
 clean:
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR)
