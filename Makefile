@@ -54,3 +54,14 @@ dist:
 
 clean:
 	$(RM) -rf $(DICT_DEV_KIT_OBJ_DIR) SecwepemcEnglish.xml
+dmg: 
+	hdiutil convert Secwepemc-English.dmg \
+		  -format UDSP -o Secwepemc-English
+	rm Secwepemc-English.dmg
+	hdiutil mount Secwepemc-English.sparseimage
+	cp -r objects/Secwepemc-English.dictionary/* \
+		    /Volumes/dictionary-template/Secwepemc-English.dictionary/
+	hdiutil unmount /Volumes/dictionary-template
+	hdiutil convert Secwepemc-English.sparseimage \
+		  -format UDBZ -o Secwepemc-English.dmg
+
