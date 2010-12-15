@@ -18,7 +18,7 @@ You need Mac OS 10.6
 
 h2. Installation
 
-# Download the "dictionary installer"https://github.com/downloads/neskie/secengmac/Secwepemc-English.dmg.:
+# Download the "dictionary installer":https://github.com/downloads/neskie/secengmac/Secwepemc-English.dmg.:
 # Copy Secwepemc-English.dictionary to /Library/Dictionaries.
 
 h2. Enjoy!
