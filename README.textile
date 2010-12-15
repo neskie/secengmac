@@ -1,13 +1,22 @@
+h2. About
+
 This project is used to create a Mac OS X dictionary for use by
-Dictionary.app.  The wordlist used has been released under the LGPL by the
-Secwepemc Cultural Education Society.
+"Dictionary.app":http://en.wikipedia.org/wiki/Dictionary_(software).  The wordlist used has been released under the LGPL by the
+"Secwepemc Cultural Education Society":http://secwepemc.org.
 
 It consists of a python script to convert a CSV to an xml file, that can then
 be compiled using the Makefile.
 
-The resulting dictionary is located in objects/Secwepemc-English.dictionary.
-
-You can place that directory in HOME/Library/Dictionaries
+You can place that directory in ~/Library/Dictionaries
 
 We will be moving from a CSV to an XML schema, and the xml file will be the
 definitive wordlist.
+
+h2. Requirements
+
+You need Mac OS 10.6
+
+h2. Installation
+
+# Download the "dictionary":https://github.com/downloads/neskie/secengmac/Secwepemc-English-latest.tar.bz2.
+# Unzip the file and place Secwepemc-English.Dictionary in to ~/Library/Dictionaries/
