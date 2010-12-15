@@ -33,7 +33,7 @@ class Symbol:
 				print i;
 			eng = unicode(eng)
 			shs = unicode(shs)
-#			self.make_word(i,shs,eng)
+			self.make_word(i,shs,eng)
 			self.make_entry(i,shs,eng)
 	def make_word(self,id,shs,eng):
 		# Create the word <word> element
@@ -93,8 +93,13 @@ xmlfilename = "SecwepemcEnglish.xml"
 handler = Symbol()
 handler.set_filename(filename)
 handler.process_file()
-#xmltext = handler.xmldoc.toprettyxml(indent="  ")
 xmltext = handler.xmldic.toprettyxml(indent="   ",encoding="UTF-8")
+file = open(xmlfilename,'w')
+file.write(xmltext)
+file.close()
+
+xmlfilename = "EnglishSecwepemcDictionary.xml"
+xmltext = handler.xmldoc.toprettyxml(indent="  ",encoding="UTF-8")
 file = open(xmlfilename,'w')
 file.write(xmltext)
 file.close()

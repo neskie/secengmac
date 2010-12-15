@@ -935,7 +935,8 @@ cwetpép;finished
 cwetpéqs;dead end
 cwetpéqs;dead end
 cwetpstés;s/he finished a chore
-cwets̓ékstem,-mens;reaching  out for...
+cwets̓ékstem;reaching  out for...
+cwets̓ékstemens;reaching  out for...
 c.wets̓él̓s;broke in half
 c.wets̓él̓sem;cutting/chopping in half when butchering /building stg.
 c.wets̓él̓sens;cutting/chopping in half when butchering /building stg.
@@ -2167,7 +2168,8 @@ llíqwens;mash, mashed
 llíqwemt;bruised, abraded (skin),  smashed up
 llíqwemt;food is crushed or smashed
 llíq̓wtsnem;blabber mouth
-llítk̓wem,-ens (also lletk̓-úm,-wentés);pick up with a fork as in  pitching  hay
+llítk̓wem (also lletk̓-úm,-wentés);pick up with a fork as in  pitching  hay
+llítk̓wens (also lletk̓-úm,-wentés);pick up with a fork as in  pitching  hay
 llíxwpemt;escaped (plur.)
 llk̓entés/llík̓ens;broke (a rope, string, wool)
 llk̓ep;broken (of string article)
@@ -2186,7 +2188,8 @@ llníts̓ens;sprinkle, smashed up of articles
 llnits̓t;splashed, sprayed onto stg. or someone
 llnok̓wt;hiccupping after  crying
 llnót̓em;sniff back snot
-llótsem,-ens (also á);pounding,  mashing
+llótsem (also á);pounding,  mashing
+llótsens (also á);pounding,  mashing
 llótske7, - á;pestle
 llp̓él̓sem,  tllp̓él̓sem;hang ing clothes on a clothes-line, or over a branch, rail
 llp̓él̓sem,  tllp̓él̓sens;hang ing clothes on a clothes-line, or over a branch, rail
@@ -2385,7 +2388,8 @@ metcwílc;prepare a store of food/wood/clothing etc.
 met̓élc;gathering close together of people, birds, animals
 mét̓em;mixed
 mét̓ens;mixed
-méte/mét̓e;together with so and so
+méte;together with so and so
+mét̓e;together with so and so
 metemí7;remaining seated for a very long time, residing  permanently
 metép;sitting under a tree, table
 metéq;dented
@@ -2471,19 +2475,22 @@ ncet̓ectsín,  necet̓ectsín;groaning, moaning
 ncet̓pétkwe,  necet̓pétkwe;stuck in/under water
 ncetstém̓,  necetstém̓;bottom of pan gets scorched
 ncet̓tsín̓em;baking bread over open fire
-ncíkwemnecíykwem;stirred a liquid
-ncíkwemnecíykwens;stirred a liquid
+necíykwem;stirred a liquid
+ncíkwemm;stirred a liquid
+ncíkwem;stirred a liquid
+necíykwens;stirred a liquid
 ncíkwe;stirring a liquid
 nclílctn;spawning ground
-ncnélesten,   necnélesten;floor-covering
-ncnústen̓,  necnústen̓;window
-ncwéyens,  necwéyens;losing/destroying  someone's possession
-ncwéyt,  necwéymens;feeling bad about a loss,  E  to mourn the dead
-ncweyt,  necwéyt;sorry, saddened about a loss of a possession
+ncnélesten,necnélesten;floor-covering
+ncnústen̓,necnústen̓;window
+ncwéyens,necwéyens;losing/destroying  someone's possession
+ncwéyt,necwéymens;feeling bad about a loss,  E  to mourn the dead
+ncweyt,necwéyt;sorry, saddened about a loss of a possession
 ne7élye;here
 ne7éne;right here
 ne7úllcw;entered
 necálenkten;wallpaper
+necálsem W,  cálem,-ens  I.;hanging up curtains or a mat.
 necálsem  W,  cálem,-ens  I.;hanging up curtains or a mat.
 necálsten;curtains
 necécpelc;flapping the wings
